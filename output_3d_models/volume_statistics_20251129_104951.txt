@@ -1,0 +1,15 @@
+Dental 3D Volume Statistics
+==================================================
+Volume shape: (64, 64, 64)
+Min density: 0.000000
+Max density: 1.000000
+Mean density: 0.153789
+Std density: 0.214213
+Non-zero voxels: 106422 / 262144
+Non-zero percentage: 40.60%
+
+Output files:
+  - NIfTI file: output_3d_models\dental_3d_volume_20251129_104951.nii
+  - Compressed NIfTI: output_3d_models\dental_3d_volume_20251129_104951.nii.gz
+  - 3D visualization: output_3d_models\dental_3d_reconstruction_20251129_104951.png
+  - Volume slices: output_3d_models\dental_volume_slices_20251129_105005.png
