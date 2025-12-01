@@ -1,0 +1,16 @@
+{
+    "basic_info": {
+        "file_path": "003_cbct.nii",
+        "file_format": "Nifti1Image",
+        "data_shape": [
+            604,
+            604,
+            412
+        ],
+        "dimensions": 3,
+        "data_type": "float64",
+        "endianness": "<"
+    },
+    "voxel_info": {
+        "voxel_dimensions": [
+            

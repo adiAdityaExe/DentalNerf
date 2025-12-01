@@ -1,0 +1,80 @@
+{
+    "file_info": {
+        "file_path": "4.png",
+        "file_name": "4.png",
+        "file_extension": ".png",
+        "file_size_bytes": 1560635,
+        "file_size_mb": 1.4883,
+        "creation_time": "2025-11-29 10:27:31",
+        "modification_time": "2025-07-10 11:46:36"
+    },
+    "image_properties": {
+        "height": 1300,
+        "width": 2850,
+        "channels": 1,
+        "total_pixels": 3705000,
+        "dtype": "uint8",
+        "bit_depth": 8
+    },
+    "color_info": {
+        "mode": "L",
+        "format": "PNG",
+        "is_grayscale": true,
+        "has_alpha": false
+    },
+    "intensity_stats": {
+        "min_value": 0.0,
+        "max_value": 254.0,
+        "mean_value": 106.1925935222672,
+        "median_value": 115.0,
+        "std_deviation": 48.645568003803234,
+        "percentile_1": 9.0,
+        "percentile_25": 77.0,
+        "percentile_50": 115.0,
+        "percentile_75": 141.0,
+        "percentile_99": 200.0
+    },
+    "exif_data": {},
+    "png_info": {
+        "gamma": 0.45455,
+        "chromaticity": [
+            0.3127,
+            0.329,
+            0.64,
+            0.33,
+            0.3,
+            0.6,
+            0.15,
+            0.06
+        ],
+        "dpi": [
+            264.9474,
+            264.9474
+        ],
+        "date:create": "2017-11-11T23:16:18-08:00",
+        "date:modify": "2013-07-13T05:29:41-07:00"
+    },
+    "histogram_info": {
+        "num_bins": 256,
+        "peak_intensities": [
+            145,
+            22,
+            126,
+            124,
+            129
+        ],
+        "peak_counts": [
+            59032,
+            47007,
+            46569,
+            46203,
+            45958
+        ],
+        "histogram_sum": 3705000
+    },
+    "contrast_info": {
+        "dynamic_range": 254.0,
+        "rms_contrast": 48.645568003803234,
+        "dynamic_range_percentage": 99.61
+    }
+}
